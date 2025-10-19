@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/gywm/lxwm/index.html\" title=\"联系我们\">联系我们</a></li>");

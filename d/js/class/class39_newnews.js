@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/rmpp/mdf/sctsxc/64.html\" title=\"双流老妈兔头（麻辣鲜香，肉质细腻）\">双流老妈兔头（麻辣鲜香，肉质细腻）</a></li><li><a href=\"/rmpp/mdf/sctsxc/63.html\" title=\"桂花冰粉（冰凉香甜，嫩滑爽口，生津解暑，清凉降火）\">桂花冰粉（冰凉香甜，嫩滑爽口，生津解暑</a></li><li><a href=\"/rmpp/mdf/sctsxc/62.html\" title=\"乐山钵钵鸡（有皮脆肉嫩，麻辣鲜香，甜咸适中的特色）\">乐山钵钵鸡（有皮脆肉嫩，麻辣鲜香，甜咸</a></li>");

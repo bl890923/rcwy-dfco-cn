@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/xhg/xctd/43.html\" title=\"红糖冰粉（冰凉可口，夏季爆品）\">红糖冰粉（冰凉可口，夏季爆品）</a></li><li><a href=\"/xhg/xctd/42.html\" title=\"红糖糍粑（川渝地区的传统小吃）\">红糖糍粑（川渝地区的传统小吃）</a></li><li><a href=\"/xhg/xctd/41.html\" title=\"川麻鸡翅（鸡翅有温中益气、补精添髓、强腰健胃等功效）\">川麻鸡翅（鸡翅有温中益气、补精添髓</a></li><li><a href=\"/xhg/xctd/40.html\" title=\"狼牙土豆（乐山的一种地方风味小吃）\">狼牙土豆（乐山的一种地方风味小吃）</a></li>");

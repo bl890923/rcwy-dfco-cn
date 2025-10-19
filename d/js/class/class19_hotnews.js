@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/xhg/jsyl/44.html\" title=\"气泡饮料（清新的口感、细腻的气泡、各种水果口味的新型饮料）\">气泡饮料（清新的口感、细腻的气泡、</a></li><li><a href=\"/xhg/jsyl/45.html\" title=\"鲜榨饮料（饮领天然健康，喝护鲜榨领香）\">鲜榨饮料（饮领天然健康，喝护鲜榨领香</a></li><li><a href=\"/xhg/jsyl/46.html\" title=\"奶茶饮料（助消化、益思提神）\">奶茶饮料（助消化、益思提神）</a></li>");
